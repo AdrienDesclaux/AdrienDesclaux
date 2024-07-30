@@ -1,5 +1,5 @@
 ### Hey ! :wave:
-I'm Adrien, frontend developer based in France 
+I'm Adrien, a passionate and driven young developer currently studying blockchain development. Based in Paris, France, I am diving deep into the world of decentralized technologies and exploring their vast potential.
 
 ### Contact me 😄
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrien-desclaux/) [![Mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:adrien.desclaux@outlook.fr)
